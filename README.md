@@ -1,6 +1,6 @@
 # Portafolio Académico – Programas en C
 
-¡Bienvenido a mi repositorio! 🚀  
+¡Bienvenido a mi portafoleo! 🚀  
 Aquí encontrarás una colección de programas desarrollados en **lenguaje C** como parte de mi formación en **Computer Science en la UNMSM**.  
 
 Este espacio funcionará como portafolio académico donde iré subiendo y organizando mis trabajos a lo largo del ciclo y mi vida académica.  
